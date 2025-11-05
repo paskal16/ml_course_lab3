@@ -1,0 +1,11 @@
+# Виртуальное окружение Python
+venv/
+env/
+ENV/
+virtualenv/
+.virtualenv/
+
+# Файлы окружения
+.env
+.venv
+env.txt
