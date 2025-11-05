@@ -9,3 +9,6 @@ virtualenv/
 .env
 .venv
 env.txt
+
+
+env
